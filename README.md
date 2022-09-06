@@ -5,10 +5,9 @@ For this Assignment, I had to create a Back-End E-Commerce API Application. For 
 
 ## Technologies Used
 1.Javascript
-2.Express.js
+2.Express.js / Router
 3.Sequelize (MYSQL)
 4.Insomnia
-5.Express.js Router
 
 ## Challenges Faced
 One of the biggest challenges from this was getting the routes to work. For some of the routes, it would keep giving me 'Error 200' meaning it will not let the user do anything because the route may be broken or not synced up well.
